@@ -1,0 +1,3 @@
+[submodule "restapi"]
+	path = restapi
+	url = git@github.com:ev-the-dev/gohome-restapi.git
