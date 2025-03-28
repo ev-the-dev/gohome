@@ -1,3 +1,6 @@
 [submodule "restapi"]
 	path = restapi
 	url = git@github.com:ev-the-dev/gohome-restapi.git
+[submodule "infrabox"]
+	path = infrabox
+	url = git@github.com:ev-the-dev/gohome-infrabox.git
